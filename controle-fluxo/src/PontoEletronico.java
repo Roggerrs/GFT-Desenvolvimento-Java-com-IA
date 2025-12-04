@@ -61,3 +61,49 @@ System.out.println("Recebe benefício? " + (temBeneficio ? "Sim" : "Não"));
 scanner.close();
     }
 }
+
+
+/* 'PontoEletronico'
+=== Cadastro Simples (Ponto Eletrônico) ===
+Digite seu nome:
+Roger
+Digite sua idade?:
+17
+Digite seu salário (use . com separador):
+1.000
+
+Cargos disponíveis:
+    - Estagiário
+    - Júnior
+    - Pleno
+    - Sênior
+
+    --- Resumo do Cadastro ---
+    Nome: Roger
+    Idade: 17 (Menor de idade)
+    Salário: R$ 1000,00
+    Cargo atribuído: Estagiário
+    Recebe benefício? Não */
+
+
+/*     === Cadastro Simples (Ponto Eletrônico) ===
+Digite seu nome:
+Roger
+Digite sua idade?:
+20
+Digite seu salário (use . com separador):
+6.000
+
+Cargos disponíveis:
+ - Estagiário
+ - Júnior
+ - Pleno
+ - Sênior
+
+--- Resumo do Cadastro ---
+Nome: Roger
+Idade: 20 (Adulto)
+Salário: R$ 6000,00
+Cargo atribuído: Pleno
+Recebe benefício? Não */
+
