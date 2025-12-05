@@ -78,7 +78,7 @@ if (idade <18) {
 }  else if (salario < 8000) {
     cargoRecomendado = cargos[2];
 } else {
-    cargoRecomendado = cargos[3];1
+    cargoRecomendado = cargos[3];
 }
 
         // --- Estrutura de dados (ArrayList) para guardar resumo ---
