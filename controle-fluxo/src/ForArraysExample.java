@@ -100,3 +100,59 @@ System.out.println(); // quebra de linha após cada linha da matriz
         scanner.close();
     }
 }
+
+/* Array inicial:[5, 3, 8, 1, 4]
+
+For tradicional (índices):
+índice 0 -> valor 5
+índice 1 -> valor 3
+índice 2 -> valor 8
+índice 3 -> valor 1
+índice 4 -> valor 4
+
+For-each (valores):
+valor = 5
+valor = 3
+valor = 8
+valor = 1
+valor = 4
+
+Soma: 21, Média = 4.2
+Máximo: 8, Mínimo = 1
+
+Array em ordem reversa:
+4,
+1,
+8,
+3,
+5
+
+
+Array copiado e ordenado:[1, 3, 4, 5, 8]
+O array original permance: [5, 3, 8, 1, 4]
+Arrays.equals(original, copia) ? false
+
+Nomes (for-each):
+Nome: Ana
+Nome: Bruno
+Nome: Carlos
+Nome: Diego
+
+Quantos números você quer informar?
+3
+Digite o número 0:
+20
+Digite o número 1:
+30
+Digite o número 2:
+40
+Você digitou: [20, 30, 40]
+
+Matriz (2x3):
+1 2 3
+4 5 6
+
+
+Somar por linha da matriz
+Soma linha 0: 6
+Soma linha 1: 15 */
