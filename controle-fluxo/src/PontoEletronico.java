@@ -30,9 +30,8 @@ if (idade < 18) {
 }
 
 boolean temBeneficio = false;
-if (salario < 2500.0) {
-    } else {
-        temBeneficio = false;
+        if (salario < 2500.0) {
+            temBeneficio = true;
     }
 
     String cargoAtribuido;
