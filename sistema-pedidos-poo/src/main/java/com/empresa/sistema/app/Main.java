@@ -25,3 +25,9 @@ public class Main {
         System.out.println(pedido.getTotal());
     }
 }
+
+/* Produtos do pedido:
+Notebook - R$ 3000.0
+Mouse - R$ 100.0
+PAGO
+3100.0 */
