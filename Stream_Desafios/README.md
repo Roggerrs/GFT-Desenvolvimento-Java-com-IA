@@ -37,7 +37,7 @@ Os desafios foram resolvidos utilizando uma lista de números inteiros e cada de
 ## 📂 Estrutura do Projeto
 
 ```
-
+````
 br.com.exemplo.stream.desafios
 ├── Desafio01Ordenar.java
 ├── Desafio02SomaPares.java
@@ -58,6 +58,7 @@ br.com.exemplo.stream.desafios
 ├── Desafio17FiltrarPrimos.java
 ├── Desafio18TodosIguais.java
 └── Desafio19DivisiveisPor3e5.java
+````
 
 ````
 
